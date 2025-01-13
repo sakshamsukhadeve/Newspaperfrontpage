@@ -1,0 +1,117 @@
+.search{
+    margin-left: 20px;
+}
+.us{
+    font-size: 12px;
+    margin-left: 400px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+.international{
+    font-size: 12px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+.canada{
+    font-size: 12px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: 600; 
+}
+.espanol{
+    font-size: 12px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: 600;  
+}
+.japanese{
+    font-size: 12px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+.button1{
+    background-color: #5C88C4;
+    border-radius: 10px;
+    color: white;
+    font-size: 10px;
+    margin-left: 220px;
+}
+.button2{
+    background-color: #5C88C4;
+    border-radius: 10px;
+    color: white;
+    font-size: 10px;
+    margin-left: 10px;
+}
+.paper{
+    font-family: "Jacquard 12", system-ui;
+    font-size: 80px;
+    margin-right: 100px;
+}
+.change{
+    color: red;
+}
+.line0{
+    margin-top: -50px;
+    opacity: ;
+}
+hr.line1{
+    border-top: 2px solid black;
+}
+.line2{
+    border-top: 2px solid black;
+    margin-top: -13px;
+}
+.link1{
+    margin-left: 20px;
+}
+.headline{
+    font-size: 30px;
+    line-height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+.item1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+.item2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    line-height: 20px;
+}
+.foot1{
+    margin-left: 30px;
+}
+.item3{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+}
+.line3{
+    border-top: 2px solid black;
+    
+}
+.trumph{
+    height: 350px;
+    width: 600px;
+}
+.advertise{
+    width: 400px;
+    height: 200px;
+}
+.item4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    line-height: 30px;
+    text-align: justify;
+}
+.final{
+    border-top: 4px solid black;
+}
+
